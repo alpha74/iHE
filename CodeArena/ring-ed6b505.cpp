@@ -99,3 +99,5 @@ void fly()
 	cout << "\n" ;
 
 }
+
+// Link: https://www.hackerearth.com/codearena/ring/ed6b505/
