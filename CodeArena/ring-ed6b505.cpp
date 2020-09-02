@@ -1,4 +1,4 @@
-#### Problem Statement
+/*
 
 Today professor Ka has given a string task to Oz and RK. He has given a string STR consisting only of characters '(' and ')' and asked them to convert the string STR into a closed one by adding parenthesis to start and/or end of string STR.
 This means that they could add characters either only to the start of string or only to to the end of string or both.
@@ -30,13 +30,9 @@ Explanation
 Add one '(' to the start and one ')' to the end
 
 
----------
+*/
 
-
-#### Solution
-
-
-```
+// Solution
 // amanalphakumar
 
 #include <bits/stdc++.h>
@@ -103,4 +99,3 @@ void fly()
 	cout << "\n" ;
 
 }
-```
