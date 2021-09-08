@@ -1,3 +1,5 @@
+![HackerEarth](https://static-fastly.hackerearth.com/newton/production/static/images/common/he-header-logo.svg)
+
 # My HackerEarth Submissions
 ## amanalphakumar
 
